@@ -40,6 +40,13 @@
 - GPT Search bar
 - Multi-lingual Feature (Bonus)
 - Integrate GPT APIs
+- Get OPENAI API keys
+- GPT Search API Calls
+- Memoization
+- Created gptSlice and added data
+- Reused MovieList component to make movie suggestion container
+- Adding .env file and added to gitignore
+- Responsive UI
 
 # Features
 
