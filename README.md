@@ -1,5 +1,7 @@
 # Flick-Fusion
 
+![Project Demo](video/Youtube_Project_Demo.mp4)
+
 - Create react app
 - Configured TailwindCSS
 - Header
